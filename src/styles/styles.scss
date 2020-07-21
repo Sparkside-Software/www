@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'variables';
+@import 'mixins';
+@import 'custom';
+$sss-blue: #0D4672;
+//$navbar-background: $sss-blue;
+$navbar-background: #8FB8DE;
+$sss-header-font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$sss-body-font-family: "Raleway", Arial, sans-serif;
+$logo-font-family: $sss-header-font-family;
+$base-body-font-family: $sss-body-font-family;
+@import "variables-theme.scss";
+@import "mixins-theme.scss";
+@import "uikit-theme.scss";
