@@ -1,0 +1,38 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1"
+    width="130"
+    height="130"
+    viewBox="0 0 300 300"
+    
+  >
+    <defs></defs>
+    <g>
+      <path
+        d="M 62 212 L 182 182 L 212 62 L 242 182 L 362 212 L 242 242 L 212 362 L 182 242 Z"
+        fill="#8fb8de"
+        stroke="#000000"
+        stroke-miterlimit="10"
+        transform="translate(152, -140) rotate(45)"
+        pointer-events="all"
+      ></path>
+      <path
+        d="M 62 202 L 182 172 L 212 52 L 242 172 L 362 202 L 242 232 L 212 352 L 182 232 Z"
+        fill="#0d4672"
+        stroke="#000000"
+        stroke-miterlimit="10"
+        pointer-events="all"
+        transform="translate(-62, -52)"
+      ></path>
+      <rect
+        x="140"
+        y="0"
+        width="20"
+        height="300"
+        fill="#ffffff"
+        stroke="#000000"
+        pointer-events="all"
+      ></rect>
+    </g>
+  </svg>
