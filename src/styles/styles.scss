@@ -8,6 +8,8 @@ $navbar-background: #8FB8DE;
 $sss-header-font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $sss-body-font-family: "Raleway", Arial, sans-serif;
 $logo-font-family: $sss-header-font-family;
+$logo-font-size: 24pt;
+$logo-color: #FF0000;
 $base-body-font-family: $sss-body-font-family;
 @import "variables-theme.scss";
 @import "mixins-theme.scss";
